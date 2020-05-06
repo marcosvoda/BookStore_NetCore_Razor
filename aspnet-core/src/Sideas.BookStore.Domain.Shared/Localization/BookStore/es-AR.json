@@ -1,0 +1,22 @@
+{
+  "culture": "es-AR",
+  "texts": {
+      "Menu:Home": "Home",
+      "Welcome": "Bienvenido",
+      "LongWelcomeMessage": "Bienvenido a la aplicación. Este es un proyecto inicial basado en el framework ABP. para mas información, visitar abp.io.",
+
+      "Menu:BookStore": "Tienda de libros",
+      "Menu:Books": "Libros",
+      "Actions": "Acciones",
+      "Edit": "Editar",
+      "PublishDate": "Fecha publicación",
+      "NewBook": "Nuevo libre",
+      "Name": "Nombre",
+      "Type": "Tipo",
+      "Price": "Precio",
+      "CreationTime": "Fecha creación",
+      "AreYouSureToDelete": "¿Está seguro que desea eliminar este item?",
+      "BookDeletionConfirmationMessage": "¿Está seguro que desea eliminar el libro {0}?",
+      "SuccessfullyDeleted": "Eliminado satisfactoriamente"
+  }
+}
